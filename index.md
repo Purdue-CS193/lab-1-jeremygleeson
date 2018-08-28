@@ -1,8 +1,8 @@
 ## Jeremy Gleeson's first CS193 Lab
 
 - Having 2 github accounts
-- Getting to learn github markdown and not html
-- Editing on github instead of cloning, editing and commiting it to the repo
+- Getting to learn github markdown
+- Trying github's web editor for files instead of an ide
 
 ## Welcome to GitHub Pages
 
