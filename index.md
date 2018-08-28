@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Jeremy Gleeson's first CS193 Lab
+
+- Having 2 github accounts
+- Getting to learn github markdown and not html
+- Editing on github instead of cloning, editing and commiting it to the repo
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
