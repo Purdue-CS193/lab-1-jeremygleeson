@@ -1,7 +1,6 @@
 ## Jeremy Gleeson's first CS193 Lab
 
 - Making another github account
-- Getting to learn github markdown
 - Trying github's web editor for files instead of an ide
 
 ## Welcome to GitHub Pages
